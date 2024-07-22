@@ -11,6 +11,7 @@ Workspace examples
 <img src="https://i.imgur.com/IjiNjjn.png" width="700px" /><a>
 <img src="https://i.imgur.com/21FuUc1.png" width="700px" /><a>
 
+----
 
 File viewer examples
 
