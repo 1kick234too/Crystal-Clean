@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/omYydHX.png" width="700px" /><a>
 
-Crystal Clean is a minimalistic Aseprite theme containing a dark mode, a darker mode, and a light mode for those of you who don't like having eyes!
+Crystal Clean is a minimalistic Aseprite theme containing a dark mode, darker mode, and a light mode for those of you who don't like having eyes!
 <a href="https://github.com/1kick234too/Crystal-Clean/blob/main/crystal-clean.zip">Download here<br>
 
 ----
